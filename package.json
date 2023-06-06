@@ -1,0 +1,12 @@
+{
+  "name": "com.veneto.wheel",
+  "version": "0.0.1",
+  "displayName": "Wheel",
+  "description": "demo package aims for accelerating the development of unity project.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Veneto",
+    "email": "johnyan0723@gmail.com",
+    "url": ""
+  }
+}

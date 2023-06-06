@@ -1,0 +1,18 @@
+{
+    "name": "com.Veneto.Wheel.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a8b9ad5cca604584aafdd16b457d23a0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
